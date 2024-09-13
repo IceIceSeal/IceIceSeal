@@ -4,5 +4,7 @@
 
  - 🔭 I’m currently working on dreame
  - 🌱 I’m currently learning Numpy, Scipy, Matplotlib ...
- - 👯 I’m looking to collaborate on trajectory simulation of launch vehicles
+ - 👯 I love my doggy, a very cute doggy!
  - 📫 How to reach me: YongJWen@outlook.com
+
+ I would rather chase for the moon.
